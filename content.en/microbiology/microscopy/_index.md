@@ -3,167 +3,68 @@ title: 'Microscopy'
 weight: 2
 ---
 
-  
-
-**Chapter Outline**
-
-**2.1** Phase Contrast Microscope
-
-**2.2** Fluorescence Microscope
-
-**2.3** Electron Microscope
+**Learning Objectives**
 
 After studying this chapter the students will be able to,
 
-_- Identify the principle components of Phase Contrast, Fluorescence and Electron Microscope._
+- Identify the principle components of Phase Contrast, Fluorescence and Electron Microscope.
 
-_- Understand the optics in different light microscope and image formation mechanism._
+- Understand the optics in different light microscope and image formation mechanism.
 
-_- Know the principle, working mechanism of Phase Contrast, Fluorescent Microscope and Electron Microscope._
+- Know the principle, working mechanism of Phase Contrast, Fluorescent Microscope and Electron Microscope.
 
-_- Differentiate Light and Electron Microscope._
+- Differentiate Light and Electron Microscope.
 
-_- Appreciate the applications of Phase Contrast, Fluorescence and Electron Microscopes._
-
-**Learning Objectives**
-
-**M**
-
-**Chapter**
-
-**2**
+- Appreciate the applications of Phase Contrast, Fluorescence and Electron Microscopes.
 
 Microscopes are specialized optical instruments designed to produce magnified visual or photographic images of objects or specimens that are too small to be seen with naked eye. Today, more  
 
 **icroscopy**
 
-sophisticated compound light microscopes are routinely used in microbiology laboratories. In the previous year, we have
-
-learnt about light microscopes that includes bright field and Dark-field microscopes. This year we are going to learn about other types of light microscopes such as phase contrast and fluorescence microscopes. Yet another well advanced microscope which uses electron as source rather than light – the electron microscope is also discussed in detail in this chapter.
+sophisticated compound light microscopes are routinely used in microbiology laboratories. In the previous year, we have learnt about light microscopes that includes bright field and Dark-field microscopes. This year we are going to learn about other types of light microscopes such as phase contrast and fluorescence microscopes. Yet another well advanced microscope which uses electron as source rather than light – the electron microscope is also discussed in detail in this chapter.
 
 ## Phase Contrast Microscope
-
-
 Frits Zernike a Dutch Physicist invented the Phase Contrast Microscope and was awarded Nobel Prize in 1953. It is the microscope which allows the observation of living cell. This microscopy uses special optical components to exploit fine differences in the refractive indices of water and cytoplasmic components of living cells to produce contrast.
 
 ### Principle
-
-
-The phase contrast microscopy is based on the principle that small phase changes in the light rays, induced by differences in the thickness and refractive index of the different parts of an object, can be transformed into
-
-
-
-
-  
-
-differences in brightness or light intensity. The phase changes are not detectable to human eye whereas the brightness or light intensity can be easily detected.
+The phase contrast microscopy is based on the principle that small phase changes in the light rays, induced by differences in the thickness and refractive index of the different parts of an object, can be transformed into differences in brightness or light intensity. The phase changes are not detectable to human eye whereas the brightness or light intensity can be easily detected.
 
 ### Optical Components of Phase Contrast Microscope (PCM)
-
-
 The phase contrast microscope is similar to an ordinary compound microscope in its optical components. It possesses a light source, condenser system, objective lens system and ocular lens system (Figure 2.1).
 
-A phase contrast microscope differs from bright field microscope in having, i. Sub-stage annular diaphragm (phase
+A phase contrast microscope differs from bright field microscope in having, 
 
+i. Sub-stage annular diaphragm (phase
 condenser) An annular aperture in the diaphragm is placed in the focal plane of the sub-stage which controls the illumination of the object. This is located below the condenser of the microscope. This annular diaphragm helps to create a narrow, hollow cone of light to illuminate the object.
 
 ii. Phase – plate (diffraction plate or phase retardation plate)
 
 ![ Components of p  ](2.1.png "")
 
-
 This plate is located at the back focal plane of the objective lenses. The phase plate has two portions, in which one is coated with light retarding material (Magnesium fluoride) and the other portion devoid of light retarding material but can absorb light. This plate helps to reduce the phase of the incident light (Figure 2.2).
 
 ### Working Mechanism of Phase Contrast Microscopy
 
-
 The unstained cells cannot create contrast under the normal microscope. However, when the light passes through an unstained
-
-cell, it encounters regions in the cell with different refractive indexes and thickness. When light rays pass through an area of high refractive index, it deviates from its normal path and such light rays experience phase change or phase retardation (deviation). Light rays pass through the area of less refractive index
-
-hase contrast microscope
-
-
-
-
-  
-
-remain non-deviated (no phase change). Figure 2.3 shows the light path in phase contrast microscope.
-
-Deviated 1/2 wave out of ph
-
-Phase plate
-
-Ray devlated by specimen is 1/4 wavelength out of phase.
-
-Bacterlum
-
+cell, it encounters regions in the cell with different refractive indexes and thickness. When light rays pass through an area of high refractive index, it deviates from its normal path and such light rays experience phase change or phase retardation (deviation). Light rays pass through the area of less refractive index hase contrast microscope remain non-deviated (no phase change). Figure 2.3 shows the light path in phase contrast microscope.
 ![ Production of contrast in pha](2.2.png "")
-
-
-Approximate effect of specimen.
-
-1/4 wavelength
-
-Specimen now appears dark.
-
-Light source
-
-Specimen
-
-Slide
-
-Phase plate
 
 ![ Optical path of P  ](2.3.png "")
 
-
-How does phase contrast microscope differ from Bright Field microscope?
-
+```
 **HOTS**
+How does phase contrast microscope differ from Bright Field microscope?
+```
 
-ray is length ase.
-
-Deviated and undeviated rays cancel each other out.
-
-se contrast microscopy by phase plate
-
-Specimen
-
-Annular ring
-
-Unobstructed light (phase unaltered by specimen)
-
-Light source
-
-Light refracted by 1/2 in total
-
-Light refracted by 1/2 (specimen)
-
-Phase plate
-
-Phase-contrast image
-
-hase contrast microscopy
-
-
-
-
-
-
-
-|------|------|
-
-
-  
 
 The difference in the phases between the retarded (deviated) and un-retarded (non-deviated) light rays is about ¼ of original wave length (i.e., λ/4). Human eyes cannot detect these minute changes
 
+```
+**Infobits**  
 Whenever light (or any wave in general) goes from one medium to another, some of the energy of the wave is “reflected” back through the first medium cut the same angle as the incident wave and some of the energy is refracted (bent). Through the second medium when light goes from a low refractive index medium to a high refractive index medium such as air to water the reflection undergoes a 180° phase change. Light waves that are in phase (that is, their peaks and valleys exactly coincide) reinforce one another and their total intensity increases.
 
 Light waves that are out of phase by exactly one-half wavelength cancel each other and result in no intensity. That is darkness wavelengths that are out of phase by any amount will produce some degree of cancellation and result in brightness less than maximum, but more than darkness. Thus, contrast is provided by differences is light intensity that result from differences in refractive indices in parts of the specimen that put light waves indices in parts of the specimen that put light waves more or less out of phase. As a result, the specimen appears as various levels of darks against a bright background.
-
-**Infobits**  
+```
 
 in the phase of light. The phase contrast microscope has special devices such as annular diaphragm and phase plate, which convert these minute phase changes into brightness (amplitude) changes, so that a contrast difference can be created in the final image. This contrast difference can be easily detected by human eyes.
 
@@ -177,11 +78,6 @@ The annular diaphragm illuminates the specimen with a hollow cone of light. Some
 - Phase contrast microscope enables the visualization of unstained living cells.
 
 - It makes highly transparent objects more visible.
-
-
-
-
-  
 
 ![ **(a)** _Saccharomyces_ under bright fi phase contrast microscope](2.4.png "")
 
@@ -198,35 +94,25 @@ The annular diaphragm illuminates the specimen with a hollow cone of light. Some
 Fluorescence microscope is a very powerful analytical tool that combines the magnifying properties of light microscope with visualization of fluorescence.
 
 Fluorescence microscope is a type of light microscope which instead of utilizing visible light to illuminate specimens, uses a higher intensity (lower wavelength) light source that excites a fluorescent molecule called a fluorophore (also known as fluorochrome). Fluorescence is a phenomenon that takes place when the substances (fluorophore) absorbs light at a given wavelength and emits light at a higher wavelength. Thus, fluorescence microscopy combines the magnifying  
-
-eld microscope **(b)** _Saccharomyces_ under
-
-British scientist Sir George G. Stokes first described fluorescence in 1852. He observed that the fluorophore emitted red light, when it was illuminated by ultraviolet excitation. Stokes noted that fluorescence emission always occurred at a longer wavelength than of the excitation light. This shift towards longer wavelength is known as stokes shift.
-
-**Infobits**
+properties of the light microscope with fluorescence technology.
 
 ![ Principle of fluorescence](2.5.png "")
 
+```
+**Infobits**
 
-properties of the light microscope with fluorescence technology.
+British scientist Sir George G. Stokes first described fluorescence in 1852. He observed that the fluorophore emitted red light, when it was illuminated by ultraviolet excitation. Stokes noted that fluorescence emission always occurred at a longer wavelength than of the excitation light. This shift towards longer wavelength is known as stokes shift.
 
-
-
-
-  
-
+```
 The fluorophore absorbs photons leading to electrons moving to a higher energy state (excited state). When the electrons return to the ground state by losing energy, the fluorophore emits light of a longer wavelength (Figure 2.5). Three of the most common fluorophores used are Diamidino – phenylindole (DAPI) (emits blue), Fluorescein isothiocyanate (FITC) (emits green), and Texas Red (emits red).
 
 ### Principle
-
 
 Light source such as Xenon or Mercury Arc Lamp which provides light in a wide range of wavelength, from ultraviolet to the infrared is directed through an exciter filter (selects the excitation wavelength). This light is reflected toward the sample by a special mirror called a dichroic mirror, which is designed to reflect light only at the excitation wavelength. The reflected light passes through the objective where it is focused onto the fluorescent specimen. The emissions from the specimen are in turn, passed back up through the objective where magnification of the image occurs and through the dichroic mirror.
 
 This light is filtered by the barrier filter, which selects for the emission wavelength and filters out contaminating light from the arc lamp or other sources that are reflected off from the microscope components. Finally, the filtered fluorescent emission is sent to a detector where the image can be digitized.
 
 ### Components of Fluorescence Microscope
-
-
 The main components of the fluorescent microscope resemble the traditional light microscope. However, the two main  
 
 difference are the type of light source used and the use of the specialized filter elements (Figure 2.6).
@@ -239,46 +125,34 @@ Excitation filters: It is placed within the illumination path of a fluorescence 
 
 ![ Components of fluorescence microscope](2.6.png "")
 
-
-
-
-
-  
-
 wavelength of the light source, except for the excitation range of the fluorophore in the sample or specimen of interest.
 
 Emission filters: The emission filter is placed within the imaging path of a fluorescence microscope. Its purpose is to filter out the entire excitation range and to transmit the emission range of the fluorophore in the specimen.
 
 Dichroic filter or beam splitter: The dichroic filter or beam splitter is placed in between the excitation filter and emission filter, at 45° angle. Its purpose is to reflect the excitation wavelength towards the fluorophore in the specimen, and to transmit the emission wavelength towards the detector.
 
-Fluorescence is called “cold light” because it does not come from a hot source like an
+```
+Do You Know??
 
-incandescent light bulb.
+Fluorescence is called “cold light” because it does not come from a hot source like an incandescent light bulb.
 
+```
 ### Working Mechanism
+The specimen to be observed are stained or labeled with a fluorescent dye and then illuminated with high intensity ultra violet light from mercury arc lamp. The light passes through the exciter filter that allows only blue light to pass through. Then the blue light reaches dichroic mirror and reflected downward to the specimen. The specimen labeled with fluorescent dye absorbs blue light (shorter wavelength) and emits green light. The emitted green light goes upward and passes through dichroic mirror, reflects back blue light and allows only green light to pass the objective lens, then it reaches barrier filter which allows only green light. The filtered fluorescent emission is sent to a detector where the image can be digitized Figure 2.7.
 
-
-The specimen to be observed are stained or labeled with a fluorescent dye and then illuminated with high intensity ultra violet light from mercury arc lamp. The light passes through the exciter filter that allows only blue light to pass through. Then the blue light reaches dichroic mirror and reflected downward to the specimen. The specimen labeled with fluorescent dye absorbs blue light (shorter wavelength) and emits green light. The emitted green light goes upward and passes through dichroic mirror, reflects back blue light and allows only green light to pass the objective lens,  
-
-then it reaches barrier filter which allows only green light. The filtered fluorescent emission is sent to a detector where the image can be digitized Figure 2.7.
-
-.
-
+```
+**Infobits**
 The Two Types of Fluorescence Microscopes includes diascopic fluorescene and episcopic fluorescene. **Diascopic Fluorescence:** K. Reichert and O. Heimstadt demonstrated a fluorescence microscope using auto fluorescent specimens in 1911.
 
 This first type of fluorescence microscopy used transmitted light. Light from the illumination source first passes through an excitor filter and subsequently to the specimen through a dark field condenser. This eliminates most of the excitation light from the imaging side of the system. **Episcopic Fluorescence:** In episcopic fluorescence microscopy, the excitation light comes from above the specimen through the objective lens. This is the most common form of fluorescence microscopy today. In this microscope, objective lens acts as both condenser and objective. Quartz objective lenses are required for deep ultraviolet excitation.
+```
 
-**Infobits**
 
 ### Application
 
-
 - Fluorescence microscope has become one of the most powerful techniques in biomedical research and clinical pathology.
 
-
-
-
-  
+![ **(a)** Fluorescence microscope  ](2.7.png "")
 
 - Fluorescence microscope allows the use of multicolour staining, labeling of structures within cells, and the measurement of the physiological state of a cell.
 
@@ -289,20 +163,16 @@ This first type of fluorescence microscopy used transmitted light. Light from th
 - To identify the Mycobacterium tuberculosis.
 
 ## Electron Microscope
-
-
 Examining the ultra structure of cellular components such as nucleus, plasma membrane, mitochondria and others requires 10,000X plus magnification which was just not possible using Light Microscopes. This is achieved by Electron microscopes which have greater resolving power than light microscopes and can obtain higher magnifications.
 
 In an electron microscope, a focused electron beam is used instead of light to examine objects. Electrons are considered as radiation with wavelength in the range 0.001–0.01 nm compared to 400–700 nm wavelength of visible light used in an optical microscope. Optical microscopes
-
-![ **(a)** Fluorescence microscope  ](2.7.png "")
-
-
 have a maximum magnification power of 1000X, and resolution of 0.2 μm compared to resolving power of the electron microscope that can reach 1,000,000 times and resolution of 0.2 nm. Hence, electron microscopes deliver a more detailed and clear image compared to optical microscopes. Table 2.1 differentiate electron microscope from light microscope.
 
-In 1924, a French sci- entist, Dr. De Broglie, showed that an elec- tron beam behaved
+```
+Do You Know??
 
-like waves and had a wavelength much shorter than the sizes of mole- cules and atom when accelerated.
+In 1924, a French sci- entist, Dr. De Broglie, showed that an elec- tron beam behaved like waves and had a wavelength much shorter than the sizes of mole- cules and atom when accelerated.
+```
 
 **Types of Electron Microscopes**
 
@@ -310,37 +180,13 @@ like waves and had a wavelength much shorter than the sizes of mole- cules and a
 
 - Scanning electron microscopes (SEM. 
 - Scanning transmission electron
+microscopes (STEM)
 
-microscopes (STEM) The electron microscope was invented
-
-in 1931 by two German scientists, Ernst Ruska and Max Knoll. Ernst Ruska later
-
-**(b)** Tubercule bacilli stained using Fluorescent dye observed under Fluorescence microscope
-
-
-
-
-  
+The electron microscope was invented in 1931 by two German scientists, Ernst Ruska and Max Knoll. Ernst Ruska later received Nobel Prize for his work in 1986. The Transmission Electron Microscope (TEM) was the first type of Electron Microscope to be developed.
+ 
 
 **Table 2.1: Difference between light and electron**
 
-**S.No Light microscope**
-
-1\. Light is the illuminating source
-
-2\. Specimen preparation takes usually few minutes to hours. Live or dead specimen may be seen
-
-3\. Condenser, objective and eye piece lenses are made up of glasses
-
-4\. Specimen is stained by coloured dyes
-
-5\. It has low resolving power (0.25µm to 0.3 µm). It has a magnification of 500X to 1500X
-
-6\. Vacuum is not required
-
-7\. Image is seen by eyes through ocular lens
-
-received Nobel Prize for his work in 1986. The Transmission Electron Microscope (TEM) was the first type of Electron Microscope to be developed.
 
 ### Principle
 
