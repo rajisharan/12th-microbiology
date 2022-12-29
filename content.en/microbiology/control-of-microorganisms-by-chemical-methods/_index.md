@@ -3,144 +3,55 @@ title: 'Control of Micro organisms by  Chemical Methods'
 weight: 3
 ---
 
-  
-
-**Chapter Outline**
-
-**3.1** Disinfectants, Antiseptics and Antibiotics
-
-**3.2** Factors Influencing the Antimicrobial Activity of Chemical Agents
-
-**3.3** Mode of Action of Chemical Agents
-
-**3.4** Major Groups of Antimicrobial Chemical Agents
-
-**3.5** Evaluation of Antimicrobial Chemical Agents
+ **Learning Objectives**
 
 After studying this chapter the students will be able to,
 
-_- Defines the terms disinfectants, antiseptics and antibiotics_
+- Defines the terms disinfectants, antiseptics and antibiotics
 
-_- Describe major groups of antimicrobial chemical agents and uses of disinfectants._
+- Describe major groups of antimicrobial chemical agents and uses of disinfectants.
 
-_- Describe the factors related to effective disinfectants._
+- Describe the factors related to effective disinfectants.
 
-_- Discuss the classification of antibiotics and their mode of action._
+- Discuss the classification of antibiotics and their mode of action.
 
-_- Know the procedure used in antimicrobial susceptibility testing in clinical laboratory._
+- Know the procedure used in antimicrobial susceptibility testing in clinical laboratory.
 
-_- Know the resistance mechanisms developed by pathogens against antibiotic or chemotherapy drugs._
+- Know the resistance mechanisms developed by pathogens against antibiotic or chemotherapy drugs.
 
-**Learning Objectives**
 
-**Control of M Chem**
-
-**Chapter**
-
-**3**  
-
-**3.6** Antibiotics
-
-**3.7** Antimicrobial Susceptibility Testing
-
-**3.8** Drugs Resistance Mechanisms
-
-**icroorganisms by ical Methods**
-
-Control of microorganisms is essential in order to prevent the transmission of diseases, infection, spoilage and to prevent unwanted microbial
-
-contamination. Microorganisms are controlled by means of physical agents and chemical agent. In 11th standard, we learnt different physical methods of sterilization. Control by chemical agents refers to the use of disinfectants, antiseptics, antibiotics and chemotherapeutic antimicrobial chemicals. This chapter describes various chemical agents, their mode of action, and their evaluation.
+Control of microorganisms is essential in order to prevent the transmission of diseases, infection, spoilage and to prevent unwanted microbial contamination. Microorganisms are controlled by means of physical agents and chemical agent. In 11th standard, we learnt different physical methods of sterilization. Control by chemical agents refers to the use of disinfectants, antiseptics, antibiotics and chemotherapeutic antimicrobial chemicals. This chapter describes various chemical agents, their mode of action, and their evaluation.
 
 Use of chemicals to sterilize objects and to control microbial pathogen from causing diseases has been in practice since centuries. A large number of chemicals are now available for this purpose. Commercial products which incorporate these chemicals are used in a variety of conditions and they usually differ in their mode of action. No single chemical agent is best for any and all purposes. Hence several classes of chemicals have been identified and new compounds are developed that possess destructive properties in terms of their suitability for practical application.
 
-
-
-
-  
-
 ## Disinfectants, Antiseptics and Antibiotics
-
 
 Disinfection is the elimination of microorganisms from inanimate objects or surfaces. The term disinfectant is used for an agent used to disinfect inanimate objects or surfaces but is generally toxic to use on human tissues. Antiseptic refers to an agent that kills or inhibits growth of microorganisms but is safe to use on human tissues.
 
 Antibiotics produced by microorganisms which kill or inhibit the growth of other microbes.
 
-**Table 3.1:** Basic terms used in Chemical steriliza **Term**
+**Table 3.1: Basic terms used in Chemical sterilization**
 
-**Disinfection** The selective elimination of cert their transmission directed again the use directly on inanimate obj
+|     **Term**     	|                                                                                                                                        **Meaning**                                                                                                                                       	|
+|:----------------:	|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
+| **Disinfection** 	| The selective elimination of certain undesirable microorganisms to prevent<br>their transmission directed against their metabolism or structure; applies to<br>the use directly on inanimate objects.                                                                                    	|
+| **Antisepsis**   	| Prevention of the growth or activity of microorganisms by inhibition<br>or killing; applies to the use of chemicals on living tissue                                                                                                                                                     	|
+| **-cide**        	| Suffix used to denote agents, usually chemical, that kill.<br><br>Commonly used terms are bactericide, fungicide, virucide, and algicide. The<br>term germicide is used if the agents kill pathogens but not necessarily spores.<br>An agent that kills bacterial spores is a sporicide. 	|
+| **-static**      	| Suffix used to denote agents, usually chemical, that prevents growth but<br>do not necessarily kill the organism or bacterial spores. Commonly used<br>terms include bacteriostatic and fungistatic.                                                                                     	|
 
-**Antisepsis** Prevention of the growth or a or killing; applies to the use of
 
-**\-cide** Suffix used to denote agents, us Commonly used terms are bacter term germicide is used if the agen An agent that kills bacterial spo
-
-**\-static** Suffix used to denote agents, u do not necessarily kill the organ terms include bacteriostatic and
-
-**Term Action** Algicide Agent that kills a Bactericide Agent that kills b Biocide Agent that kills l Fungicide Agent that kills f Germicide Chemical agent
-
-specifically kills microorganisms
-
-Sporicide Agent that kills b endospores
-
-Virucide Inactivates virus lose the ability to  
-
-Following Table gives few examples of antimicrobial chemical agents that destroy unwanted microorganisms.
-
-**Disinfectants Antiseptics Antibiotics** Chlorine, Copper
-
-Phenol, Tincture Iodine
-
-Penicillin, Streptomycin
-
-Basic terms used in chemical control of microorganism are mentioned in Table 3.1 and Table 3.2 Describes the difference between Bactericidal and Bacteriostatic
-
-agents.
-
-tion **Meaning**
-
-ain undesirable microorganisms to prevent st their metabolism or structure; applies to ects. ctivity of microorganisms by inhibition chemicals on living tissue ually chemical, that kill. icide, fungicide, virucide, and algicide. The ts kill pathogens but not necessarily spores. res is a sporicide.
-
-sually chemical, that prevents growth but ism or bacterial spores. Commonly used fungistatic.
-
-**Examples** lgae Copper sulfate acteria Chlorohexidine, ethanol
-
-iving organisms Hypochlorite (bleach) ungi Ethanol that pathogenic
-
-Formaldehyde, silver, mercury
-
-acterial Glutaraldehyde
-
-es so that they replicate
-
-Cationic detergents (qua- ternary ammonium salts of acetates, chlorides)
+| Term        	| Action                                                                 	| Examples                                                                       	|
+|-------------	|------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|
+| Algicide    	| Agent that kills algae                                                 	| Copper sulfate                                                                 	|
+| Bactericide 	| Agent that kills bacteria                                              	| Chlorohexidine, ethanol                                                        	|
+| Biocide     	| Agent that kills living organisms                                      	| Hypochlorite (bleach)                                                          	|
+| Fungicide   	| Agent that kills fungi                                                 	| Ethanol                                                                        	|
+| Germicide   	| Chemical agent that<br>specifically kills pathogenic<br>microorganisms 	| Formaldehyde, silver,<br>mercury                                               	|
+| Sporicide   	| Agent that kills bacterial<br>endospores                               	| Glutaraldehyde                                                                 	|
+| Virucide    	| Inactivates viruses so that they<br>lose the ability to replicate      	| Cationic detergents (qua-<br>ternary ammonium salts<br>of acetates, chlorides) 	|
 
 
 
-
-
-
-| Dis inf e c ta nts |Ant i s e pt i c s |Ant ibi ot i c s |
-|------|------|------|
-| C h lo r in e,C opp e r |Phe no l,Tin c tureIo din e |Penici l lin,St rep tomycin |
-
-
-| Ter m |Me anin g |
-|------|------|
-| Dis inf e c ti on |The  selective e limination o f  certain  undesirable  microorganisms t o  prevent their  transmission  directed  against  their  metabolism  or  structure;  applies  to the use directly on inanimate objects. |
-| Antis e ps is |P r e v en t io n  o f  t h e  g r o wt h  o r  ac t i v i t y  o f  micr o o r ga ni sm s  b y  in hi b i t io no r k i l lin g; a p p lies t o t h e u s e o f c h emic a l s o n li v in g t i s s ue |
-| -ci d e |Suf f ix u s e d t o den ote a gen ts, u su a l ly c hemic a l, t hat k i l l.Commonly used terms are bactericide, fungicide, virucide, and algicide. The term germicide is used if the agents kill pathogens but not necessarily spores.An a gen t t hat k i l ls b ac ter i a l s p ores i s a s p or icide . |
-| -s ta ti c |Suf f ix u s e d t o den ote a gen ts, u su a l ly c hemic a l, t hat p re ven ts g rowt h b utdo n ot n e ces s ar i ly k i l l t he o rga ni sm o r b ac ter i a l s p ores. C omm on ly u s e dter ms in clude b ac ter ios t at ic a nd f un g ist at ic. |
-
-
-| Ter m |Act io n |E xa mpl es |
-|------|------|------|
-| A lg icide |Agen t t hat k i l ls a lgae |C opp er s u lfa te |
-| B ac ter icide |Agen t t hat k i l ls b ac ter i a |C h lo rohexidin e, et hanol |
-| Bio cide |Agen t t hat k i l ls li v in g o rga ni sm s |Hyp o ch lo r ite (b le ac h) |
-| Fun g icide |Agen t t hat k i l ls f un g i |Et hanol |
-| G er micide |C hemic a l a gen t t hatsp e cif ic a l ly k i l ls p at hog enicmicr o orga ni sm s |Formaldehyde, silver, mercur y |
-| Sp or icide |Agen t t hat k i l ls b ac ter i a len dos p ores |Glut ara lde hyde |
-| Vir ucide |Inac t iva tes v ir us es s o t hat t he ylos e t he a bi li t y t o r ep lic ate |C at io nic det er gen ts (q u a -ter nar y a mm oni um s a ltsof  acet ates, c h lo r ides) |
-  
 
 ## Factors Influencing the Antimicrobial Activity of Chemical Agents
 
