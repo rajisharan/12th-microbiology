@@ -187,13 +187,18 @@ The electron microscope was invented in 1931 by two German scientists, Ernst Rus
 
 **Table 2.1: Difference between light and electron**
 
-
+| S.No 	| Light microscope                                                                                 	| Electron microscope                                                                                                                     	|
+|------	|--------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------	|
+| 1.   	| Light is the illuminating source                                                                 	| The beam of electrons is the electron<br>source                                                                                         	|
+| 2.   	| Specimen preparation takes usually<br>few minutes to hours. Live or dead<br>specimen may be seen 	| Specimen preparation takes usually<br>takes a few days. Only dead or dried<br>specimen are seen                                         	|
+| 3.   	| Condenser, objective and eye piece<br>lenses are made up of glasses                              	| All lenses are electromagnetic                                                                                                          	|
+| 4.   	| Specimen is stained by coloured dyes                                                             	| Specimen is coated with heavy metals<br>in order to reflect electrons                                                                   	|
+| 5.   	| It has low resolving power (0.25μm to<br>0.3 μm). It has a magnification of 500X<br>to 1500X     	| It has high resolving power (0.001μm),<br>about 250 times higher than light<br>microscope. It has a magnification<br>more than 100,000X 	|
+| 6.   	| Vacuum is not required                                                                           	| Vacuum is essential for its operation                                                                                                   	|
+| 7.   	| Image is seen by eyes through ocular<br>lens                                                     	| Image is produced on fluorescent<br>screen or photographic plate                                                                        	|
 ### Principle
 
-
-The fundamental principle of electron microscope is similar to light microscope. In electron microscope, a high velocity beam of electrons is used instead of photons. In the electron gun, electrons are emitted from the surface of the cathode and accelerated towards the anode by high voltage to form a high energy electron beam. All lenses in the electron microscope are electromagnetic. Charged electrons interact with the magnetic fields and magnetic force focuses an electron beam. The condenser lens system controls the beam diameter and convergence  
-
-angles of the beam incident on a specimen. The image is formed either by using the transmitted beam or by using the diffracted beam. The image is magnified and focused onto an imaging device, such as a fluorescent screen, on a layer of photographic film, or to be detected by a sensor.
+The fundamental principle of electron microscope is similar to light microscope. In electron microscope, a high velocity beam of electrons is used instead of photons. In the electron gun, electrons are emitted from the surface of the cathode and accelerated towards the anode by high voltage to form a high energy electron beam. All lenses in the electron microscope are electromagnetic. Charged electrons interact with the magnetic fields and magnetic force focuses an electron beam. The condenser lens system controls the beam diameter and convergence  angles of the beam incident on a specimen. The image is formed either by using the transmitted beam or by using the diffracted beam. The image is magnified and focused onto an imaging device, such as a fluorescent screen, on a layer of photographic film, or to be detected by a sensor.
 
 **Sample Preparation** Preparation of specimens is the most complicated and skillful step in EM. The material to be studied under electron microscopy must be well preserved, fixed, completely dehydrated, ultrathin and impregnated with heavy metals that sharpen the difference among various organelles.
 
