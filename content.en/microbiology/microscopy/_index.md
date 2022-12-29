@@ -200,43 +200,18 @@ The electron microscope was invented in 1931 by two German scientists, Ernst Rus
 
 The fundamental principle of electron microscope is similar to light microscope. In electron microscope, a high velocity beam of electrons is used instead of photons. In the electron gun, electrons are emitted from the surface of the cathode and accelerated towards the anode by high voltage to form a high energy electron beam. All lenses in the electron microscope are electromagnetic. Charged electrons interact with the magnetic fields and magnetic force focuses an electron beam. The condenser lens system controls the beam diameter and convergence  angles of the beam incident on a specimen. The image is formed either by using the transmitted beam or by using the diffracted beam. The image is magnified and focused onto an imaging device, such as a fluorescent screen, on a layer of photographic film, or to be detected by a sensor.
 
-**Sample Preparation** Preparation of specimens is the most complicated and skillful step in EM. The material to be studied under electron microscopy must be well preserved, fixed, completely dehydrated, ultrathin and impregnated with heavy metals that sharpen the difference among various organelles.
+**Sample Preparation** 
 
-The material is preserved by fixation with glutaraldehyde and then with
+Preparation of specimens is the most complicated and skillful step in EM. The material to be studied under electron microscopy must be well preserved, fixed, completely dehydrated, ultrathin and impregnated with heavy metals that sharpen the difference among various organelles.
 
-microscope
-
-**Electron microscope**
-
-The beam of electrons is the electron source Specimen preparation takes usually takes a few days. Only dead or dried specimen are seen All lenses are electromagnetic
-
-Specimen is coated with heavy metals in order to reflect electrons
-
-It has high resolving power (0.001µm), about 250 times higher than light microscope. It has a magnification more than 100,000X Vacuum is essential for its operation
-
-Image is produced on fluorescent screen or photographic plate
-
-
-
-
-
-
-| S.N o |L ig ht mi cr os c op e |E l e c tron mi cr os c op e |
-|------|------|------|
-| 1. |L ig ht i s t he i l lumin at in g s our ce |Th e b e am o f e le c t rons i s t he e le c t rons our ce |
-| 2. |Sp e cim en p rep ara t io n t a kes u su a l lyfe w min utes t o h our s. L ive o r de adsp e cim en m ay b e s e en |Sp e cim en p rep ara t io n t a kes u su a l lyt a kes a f e w d ays. On ly de ad o r dr ie dsp e cim en a re s e en |
-| 3. |C onden s er, o bj e c t ive a nd e ye p ie celen s es a re m ade u p o f g l ass es |A l l len s es a re e le c t romag net ic |
-| 4. |Sp e cim en i s s t ain e d b y co lo ur e d d yes |Sp e cim en i s co ate d w it h h e av y m et a lsin o rder t o r ef le c t e le c t rons |
-| 5. |It h as lo w r es olv in g p ower (0.25µm t o0.3 µm). I t h as a m ag nif ic at io n o f 500Xto 1500X |It h as hig h r es olv in g p ower (0.001µm),ab out 250 t im es hig her t han lig htmicr os co p e. I t h as a m ag nif ic at io nmore t han 100,000X |
-| 6. |Vac uum i s n ot r e quir e d |Vac uum i s es s en t i a l f or i ts o p era t io n |
-| 7. |Image i s s e en b y e yes t hr oug h o c u l arlen s |Image i s p ro duce d o n f luo res cen ts cr e en o r p hotog ra phic p l ate |
-  
-
-osmium tetroxide. The fixed material is dehydrated and then embedded in plastic (epoxy resin) and sectioned with the help of diamond or glass razor of ultra-microtome.
+The material is preserved by fixation with glutaraldehyde and then with osmium tetroxide. The fixed material is dehydrated and then embedded in plastic (epoxy resin) and sectioned with the help of diamond or glass razor of ultra-microtome.
 
 In TEM, sample sections are ultrathin about 50–100 nm thick. These sections are placed on a copper grid and exposed to electron dense materials like lead acetate, uranylacetate, phosphotungstate. In SEM, samples can be directly imaged by mounting them on an aluminum stub.
 
-**Electron–Sample Interactions** Interaction of electron beam with the sample results in different types of electrons: Elastic scattered electrons, Inelastic scattered electrons, secondary electrons and backscattered electrons. Almost all types of electron interactions can be used to retrieve information about
+
+**Electron–Sample Interactions** 
+
+Interaction of electron beam with the sample results in different types of electrons: Elastic scattered electrons, Inelastic scattered electrons, secondary electrons and backscattered electrons. Almost all types of electron interactions can be used to retrieve information about
 
 ![ Interaction between e  ](2.8.png "")
 
@@ -247,20 +222,16 @@ In Transmission electron microscope (TEM), a beam of electrons is transmitted th
 
 Secondary electrons are mainly used in scanning electron microscope (SEM) for imaging the surface topography of biological specimens. The interaction of electron beam with samples results in secondary electrons and backscattered electrons that are detected by standard SEM equipment.
 
-lectron beams with specimen
-
-
-
-
-  
-
 ### Working Principle and Instrumentation of TEM
 
+The optics of the TEM is similar to conventional transmission light microscope. A transmission electron microscope has the following components, 
+1. Electron gun 
+2. Condenser lens 
+3. Specimen stage 
+4. Objective lens and projector lens 5. Screen/photographic film/Charged
+Coupled Device (CCD) camera 
 
-The optics of the TEM is similar to conventional transmission light microscope. A transmission electron microscope has the following components, 1. Electron gun 2. Condenser lens 3. Specimen stage 4. Objective lens and projector lens 5. Screen/photographic film/Charged
-
-Coupled Device (CCD) camera Electron Gun consists of a tungsten
-
+Electron Gun consists of a tungsten
 filament or cathode that emits electrons on receiving high voltage electric current (50,000–100,000 volts). A high voltage between the electron source (cathode) and an anode plate is applied leading to an electrostatic field through which the electrons are accelerated.
 
 The emitted electrons travel through vacuum in the microscope column. Vacuum is essential to prevent strong scattering of electrons by gases. Electromagnetic condenser lenses focus the electrons into a very thin beam. Electron beam then travels through the specimen and then through the electromagnetic objective lenses. In a TEM microscope, the sample is located in the middle of the column. At the bottom of the microscope, unscattered electrons hit the fluorescent screen giving image of specimen with its different parts displayed in varied darkness, according to their density. The image can be studied directly, photographed or digitally recorded. Figure 2.9 show the arrangement  
@@ -279,62 +250,23 @@ Information that can be obtained using TEM include,
 
 ### Working Principle and Instrumentation of SEM
 
-
 It is first built by Knoll in 1935. It is used to study the three dimensional images of the surfaces of cells, tissues or particles. The SEM allows viewing the surfaces of specimens without sectioning. The specimen is first fixed in liquid propane at-180°C and then dehydrated in alcohol at-70°C. The dried specimen is then coated with a thin film of heavy metal, such as platinum or gold, by evaporation in a vacuum provides a reflecting surface of electrons. In SEMs, samples are positioned at the bottom of the electron column and the scattered electrons (back- scattered or secondary) are captured by electron detectors.
 
 In SEM, there are several electromagnetic lenses, including condenser lenses and one objective lens. Electromagnetic lenses are for electron probe formation, not for image formation directly, as in TEM. Two condenser lenses reduce the crossover diameter of the electron beam. The objective lens
 
-
-
-
-  
-
-further reduces the cross-section of the electron beam and focuses the electron beam as probe on the specimen surface (Figure 2.10). Objective lens thus functions like a condenser. This is in contrast to TEM where objective lens does the magnification. Major difference between SEM and TEM are given in Table 2.2. SEMs are equipped with an energy dispersive spectrometer (EDS) detection
-
-Inte
-
-O ape
-
-Co
-
 ![ **(a)** Transmission microscope **(b)** C  ](2.9.png "")
 
-
-system which is able to detect and display most of the X-ray spectrum. The detector normally consists of semiconducting silicon or germanium.
+further reduces the cross-section of the electron beam and focuses the electron beam as probe on the specimen surface (Figure 2.10). Objective lens thus functions like a condenser. This is in contrast to TEM where objective lens does the magnification. Major difference between SEM and TEM are given in Table 2.2. SEMs are equipped with an energy dispersive spectrometer (EDS) detection system which is able to detect and display most of the X-ray spectrum. The detector normally consists of semiconducting silicon or germanium.
 
 **Scanning transmission electron microscopy (STEM)** combines the principles of transmission electron microscopy and scanning electron microscopy and can be performed on either type of instrument. Like TEM,
 
-Electron gun
+![ **(a)** Scanning electron microscope **(b**  ](2.10.png "")
 
-Anode
-
-Specimen
-
-Projetor lens
-
-Fluorescent screen
-
-rmediate lens
-
-bjective rture lens
-
-ndenser lens
-
-omponents of TEM **(c)** image under TEM
-
-
-
-
-  
-
+```
 **Foldscope – origami based paper microscope** A foldscope is an optical microscope that can be
 
 assembled from simple components, including a sheet of paper and a lens. It was developed by an Indian Manu Prakash. It consists of the following parts which are as follows: Lens stage, sample stage, panning guide, ramp, lens and magnetic cuppler. It has the magnification of 140X and maximum of 2400X
-
-el
-
-![ **(a)** Scanning electron microscope **(b**  ](2.10.png "")
-
+```
 
 STEM requires very thin samples and the primary electron beam is transmitted by the sample. One of its principal advantages over TEM is in enabling the use of other of signals that cannot be spatially correlated in TEM, including secondary electrons, scattered beam electrons, characteristic X-rays, and electron energy loss.
 
@@ -342,133 +274,17 @@ STEM requires very thin samples and the primary electron beam is transmitted by 
 
 Microscopes are specialized optical instruments designed to produce magnified visual or photographic images of objects or specimens that are too small to be seen with
 
-Secondary electron detector
-
-Electron gun
-
-Electron beam Anode
-
-Stage Specimen
-
-Backscattered ectron detector
-
-Magnetic lens
-
-**)** Components of SEM **(c)** image under SEM
-
-
-
-
-  
-
+ 
 **Table 2.2: Difference between SEM and TEM**
 
-**S.no Properties SE**
-
-1\. Types of electrons It is based electrons that from the su specimen
-
-2\. Sample preparation Sample can thickness an with a thin lay metal such palladium and an aluminum s
-
-3\. Resolution The resolution
-
-4\. Magnification The magnifyi SEM is up to 1
-
-5\. Image formation SEM provi dimensional Secondary or b electrons ar detected and computer scre
-
-6\. Application SEM is used topography composition o  
-
-**M TEM**
-
-on scattered are emitted rface of a
-
-It is based on transmitted electrons
-
-be of any d is coated er of a heavy as gold or mounted on lab
-
-Laborious sample preparation is required. The sample has to be cut into thin sections so as to allow electrons to pass through it and are supported on TEM grids
-
-is up to 20nm TEM has much higher resolution than SEM. It can resolve objects as close as 1nm
-
-ng power of 00,000X
-
-The magnifying power of TEM is up to 5,000,000X
-
-des a 3 image.
-
-ack scattered e captured, displayed on
-
-en
-
-TEM provides a 2 dimensional image. Transmitted electrons hit a fluorescent screen giving rise to a shadow image. The image can be studied directly by the operator or photographed with a camera
-
-to study the and atomic f specimens
-
-TEM is used to study the interior of cells, the structure of protein molecule, the organization of molecules in viruses and cytoskeletal filaments and the arrangement of protein molecules in cell membranes
+| S.no 	| Properties         	| SEM                                                                                                                                                      	| TEM                                                                                                                                                                                                                                      	|
+|------	|--------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1.   	| Types of electrons 	| It is based on scattered<br>electrons that are emitted<br>from the surface of a<br>specimen                                                              	| It is based on transmitted<br>electrons                                                                                                                                                                                                  	|
+| 2.   	| Sample preparation 	| Sample can be of any<br>thickness and is coated<br>with a thin layer of a heavy<br>metal such as gold or<br>palladium and mounted on<br>an aluminum slab 	| Laborious sample<br>preparation is required.<br>The sample has to be<br>cut into thin sections so<br>as to allow electrons to<br>pass through it and are<br>supported on TEM grids                                                       	|
+| 3.   	| Resolution         	| The resolution is up to 20nm                                                                                                                             	| TEM has much higher<br>resolution than SEM. It<br>can resolve objects as<br>close as 1nm                                                                                                                                                 	|
+| 4.   	| Magnification      	| The magnifying power of<br>SEM is up to 100,000X                                                                                                         	| The magnifying power of<br>TEM is up to 5,000,000X                                                                                                                                                                                       	|
+| 5.   	| Image formation    	| SEM provides a 3<br>dimensional image.<br>Secondary or back scattered<br>electrons are captured,<br>detected and displayed on<br>computer screen         	| TEM provides a 2<br>dimensional image.<br>Transmitted electrons<br>hit a fluorescent screen<br>giving rise to a shadow<br>image. The image can be<br>studied directly by the<br>operator or photographed<br>with a camera                	|
+| 6.   	| Application        	| SEM is used to study the<br>topography and atomic<br>composition of specimens                                                                            	| TEM is used to<br>study the interior of<br>cells, the structure<br>of protein molecule,<br>the organization of<br>molecules in viruses and<br>cytoskeletal filaments<br>and the arrangement of<br>protein molecules in cell<br>membranes 	|
 
 
-
-
-
-
-| S.no |Prop er ti e s |SE M |TEM |
-|------|------|------|------|
-| 1. |Typ es o f e le c t rons |It i s b as e d o n s c atter e dele c t rons t hat a re emi tte df rom t he s ur face o f asp e cim en |It i s b as e d o n t ra nsmi tte del ec tr ons |
-| 2. |Sa mple p rep ara t io n |Sa mple c an b e o f a nyt hic k nes s a nd i s co ate dw it h  a t hin  l ayer o f  a  he av ymet a l  suc h  as  gold o rp a l l adi um a nd m oun te d o nan a lumin um s l ab |L ab or io us s ampleprep ara t io n i s r e quir e d.Th e s ample h as t o b ec ut in to t hin s e c t io ns s oas t o a l lo w e le c t rons t op ass t hr oug h i t a nd a resupp or te d o n TEM g r id s |
-| 3. |R e s olut i on |Th e res olut io n is up to 20nm |TEM h as m uc h hig herres olut io n t han S EM. I tc an r es olve o bj e c ts a sclos e a s 1nm |
-| 4. |Mag nif ic at io n |Th e m ag nif y in g p ower o fSEM i s u p t o 100,000X |Th e m ag nif y in g p ower o fTEM i s u p t o 5,000,000X |
-| 5. |Image  f or mat i on |SEM p rov ides a 3dim en sio na l im age.S e co nd ar y o r b ac k s c atter e dele c t rons a re c aptur e d,det e c te d a nd di spl aye d o nco mputer s cr e en |TEM p rov ides a 2dim en sio n a l im a ge .Tra nsmi tt e d e le c t ronshi t a f luo res cen t s cr e eng i v in g r i s e t o a s h ado wim a ge . Th e im a ge c an b es tudie d dir e c t l y b y t h eop era t or or ph ot og ra p h e dw it h a c am era |
-| 6. |Applic at io n |SEM i s u s e d t o s tud y t hetop og ra phy a nd a tomicco mp osi t io n o f s p e cim en s |TEM i s u s e d t ostud y t he in ter io r o fce l ls, t he s t r uc tur eof  protein  mole c u le ,t he  orga niza t io n  ofmole c u les in v ir us es a ndc yt os kelet a l f i l amen tsand t he a r ra ngem en t o fprotein m ole c u les in ce l lmem bra nes |
-  
-
-naked eye. Frits Zernike a Dutch Physicist invented the Phase Contrast Microscope and was awarded Nobel Prize in 1953. It is the first microscopic method which allows the observation of living cell. The image of the aperture is formed at the rear focal plane of the objective. In this plane there is a phase shifting element or phase plate. Deviated rays from object form structures due to different refractive index. Light waves that are in phase (that is, their peaks and valleys exactly coincide) reinforce one another and their total intensity increases. Light waves that are out of phase by exactly one-half wavelength cancel each other and result in no intensity. Fluorescence microscopy is a very powerful analytical tool that combines the magnifying properties of light microscopy with visualization of fluorescence. Examining the ultra structure of cellular components such as nucleus, plasma membrane, mitochondria and others requires 10,000x plus magnification which was just not possible using Light Microscopes. It is first built by Knoll in 1935. It is used to study the three dimensional images of the surfaces of cells, tissues or particles. The SEM allows viewing the surfaces of specimens without sectioning. The specimen is first fixed in liquid propane at-180°C and then dehydrated in alcohol at-70°C. **Scanning transmission electron microscopy (STEM)** combines the principles of transmission electron microscopy and scanning electron microscopy and can be performed on either type of instrument. One of its principal advantages over TEM is in enabling the use of other of signals that cannot be spatially correlated in TEM, including secondary electrons, scattered beam electrons, characteristic X-rays, and electron energy loss.  
-
-**Evaluation**
-
-**Multiple choice questions**
-
-1\. Who invented phase contrast microscope? a. Robert Koch b. Frits Zernike c. George Strokes d. Alexander Fleming
-
-2\. The component that makes the difference between phase contrast microscope and Bright Field microscope is a. Objective b. Phase plate c. Condenser d. Occular
-
-3\. Tumor cells can be diagnosed by a. PCM b. BFM c. Light Microscope d. Electron Microscope
-
-4\. In electron microscope light source is a. Electric light b. Electron Beam c. Sun light d. Fluorescent
-
-light 5. What is the medium used in electron
-
-microscope? a. Air b. Water c. Vacuum d. Light
-
-6\. are mainly used in scanning electron microscope a. Transmitted electrons b. Primary electrons c. Secondary electrons d. Elastically scattered electrons
-
-7\. Lenses used in TEM a. Objective lens b. Electromagnetic lens c. Glass lenses d. Condensor lenses
-
-
-
-
-  
-
-8\. is used to illuminate specimen in fluorescent microscope a. Mercury arc lamp b. Sunlight c. Tungsten lamp d. LED
-
-9\. Which among the following help us in getting a 3-D picture of specimen? a. TEM b. SEM c. Compound microscope d. Simple microscope
-
-10\. Dye used to stain specimen in fluroscent microscopic view a. Acridine dye b. Rezazurin c. Methylene Blue d. Flurochrome
-
-**Answer the following** 1\. Principle of PCM 2. Write about the special features of
-
-TEM 3. List out the dyes used for fluorescence
-
-microscopy 4. What are the different types of filters
-
-used in fluorescence microscopy 5. Define flurochromes. 6. Write the functions of Barrier filter 7. Write the components of PCM 8. What are the Application of EM 9. Write about TEM – Introduction and
-
-Principle 10. Write a brief account on the
-
-application of fluorescent microscopy 11. Explain in detail about the principle
-
-construction and working of PCM. 12. Explain the Principle, Components
-
-and Mechanism of EM.
-
-
-
-
+naked eye. Frits Zernike a Dutch Physicist invented the Phase Contrast Microscope and was awarded Nobel Prize in 1953. It is the first microscopic method which allows the observation of living cell. The image of the aperture is formed at the rear focal plane of the objective. In this plane there is a phase shifting element or phase plate. Deviated rays from object form structures due to different refractive index. Light waves that are in phase (that is, their peaks and valleys exactly coincide) reinforce one another and their total intensity increases. Light waves that are out of phase by exactly one-half wavelength cancel each other and result in no intensity. Fluorescence microscopy is a very powerful analytical tool that combines the magnifying properties of light microscopy with visualization of fluorescence. Examining the ultra structure of cellular components such as nucleus, plasma membrane, mitochondria and others requires 10,000x plus magnification which was just not possible using Light Microscopes. It is first built by Knoll in 1935. It is used to study the three dimensional images of the surfaces of cells, tissues or particles. The SEM allows viewing the surfaces of specimens without sectioning. The specimen is first fixed in liquid propane at-180°C and then dehydrated in alcohol at-70°C. **Scanning transmission electron microscopy (STEM)** combines the principles of transmission electron microscopy and scanning electron microscopy and can be performed on either type of instrument. One of its principal advantages over TEM is in enabling the use of other of signals that cannot be spatially correlated in TEM, including secondary electrons, scattered beam electrons, characteristic X-rays, and electron energy loss. 
