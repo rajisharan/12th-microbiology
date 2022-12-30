@@ -412,15 +412,25 @@ vitamin B. Some cofactors are metal ions including iron (Fe), copper (Cu), magne
 
 The complete enzyme consisting of the apoenzyme and its cofactor is called the holoenzyme.
 
-**Table 4.4: Industrial application of microbial enzymes**
-
-
-
 ### Microbial Enzymes
 
 Many microbes synthesize and excrete large quantities of enzymes into the surrounding medium. Using this feature of these tiny organisms many enzymes like Amylase, Cellulase, Catalase, Protease, and Lipase are produced commercially.
 
 Microbial enzymes are extensively used in food processing, preservation, washing powder preparation, leather industry, and paper industry and in scientific research (Table 4.4).
+
+**Table 4.4: Industrial application of microbial enzymes**
+
+| **Industries** 	| **Enzymes** 	| **Microbial Sources** 	| **Application** 	|
+|---	|---	|---	|---	|
+| Pharmaceutical<br>industry 	| • Glucose<br>  oxidase<br><br>• Streptokinase<br><br>• Protease<br><br>•• coagulase 	| • Penicillium<br>notatum<br><br>•  Streptococci<br><br>•  Clostridium spp<br><br>•  Staphylococcus<br>aureus 	| • To detect free glucose level<br>in diabetic patients<br><br>• Anti coagulants<br><br>• Conversion of fibrinogen to<br>fibrin 	|
+| Dairy Industry 	| • Catalase<br><br>• Lactase 	| • Aspergillus niger<br><br>• Lactobacillus spp 	| • Remove Hydrogen peroxide<br>in milk (detoxification)<br><br>• Increase sweetness in milk 	|
+| Baking<br>Industry 	| • Amylase<br><br>• Lipase 	| • Bacillus subtilis<br><br>• Candida Lipolytica 	| • Increase bread shelf life<br><br>• Enhances flour quality and<br>dough stability 	|
+| Polymer<br>Industry 	| • Lipase<br><br>• Peroxidase 	| • Candida spp<br><br>• Pseudomonas spp 	| • Polyester preparation<br><br>• Formation of cross links 	|
+| Leather<br>Industry 	| • Protease<br>Lipase 	| • Bacillus spp<br><br>• Aspergillus spp 	| • Unbarring of hides,<br>degreasing and softening of leather 	|
+| Textile<br>Industry 	| • Cutinase<br><br>• Collagenase<br><br>• Laccase 	| • Pseudomonas spp <br><br>• Clostridium<br><br>histolyticum 	| • Cotton Scouring<br><br>• Wool Finishing<br><br>• Bleach termination<br><br>• Fabric dyeing 	|
+| Recombinant<br>DNA<br>technology 	| • DNase<br><br>• Ligase 	| • Escherichia coli<br><br>• Actinomycetes 	| • Nuclease enzyme that break<br>phosphodiester bond of<br>DNA or RNA<br><br>• Joins the nick in DNA<br><br>fragments 	|
+
+
 
 **Infobits**
 
@@ -436,6 +446,41 @@ Lipase producing microorganism have been found in industrial wastes, vegetable o
 
 Inhibitors: An enzyme inhibitor is a molecule that binds to an enzyme and decreases its activity (Flowchart 4.1). This adverse affect of inhibitors on the rate of enzymatically catalyzed reactions are called inhibition.
 
+```
+goat
+
+                                 Inhibition
+
+                                      |
+                                      |
+                                      |
+    +---------------------------------+----------------------------+
+    |                                 |                            |
+    |                                 |                            |
+    |                                 |                            |
+    |                                 |                            |
+    v                                 v                            v
+
+Reversible                      Irreversible                   Allosteric
+     |
+     |
+     |
+     +------->   Competitive
+     |
+     |
+     |           Uncompetitive
+     +------->
+     |
+     |
+     |
+     +------->    Mixed
+     |
+     |
+     |
+     +-------->    Non -competitive
+
+
+```
 An irreversible inhibitor inactivates an enzyme by binding covalently to a particular group at the active site. A reversible inhibitor inactivates an enzyme by non covalent, more easily reversible interactions. Competitive inhibitor is any compound that bears a structural resemblance to a particular substrate for binding at the active site of an enzyme. Non competitive inhibitors do not compete with the substrate for the enzyme’s active site; instead, they interact with another part of the enzyme. Uncompetitive inhibitors bind only to the enzyme substrate complex without binding to the free enzyme (Figure 4.13).
 
 ![ Competitive and non-competitive inhibition](4.13.png "")
