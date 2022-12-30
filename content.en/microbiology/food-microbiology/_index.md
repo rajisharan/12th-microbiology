@@ -216,35 +216,15 @@ Microbial growth in food products also can results in food intoxication.
 
 **Table 5.1:** Major Food – Borne Infectious Diseas
 
-**S.No Disease Organism I a**
+| **S.No** 	| **Disease** 	| **Organism** 	| **Incubation period<br>and characteristics** 	| **Major Foods Involved** 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| 1 	| Salmonellosis 	| Salmonella <br>typhimurium<br>S. enteritidis 	| 8–48 hr<br>Enterotoxin and<br>cytotoxins 	| Meat, poultry, Fish,<br>eggs, dairy product 	|
+| 2 	| Campylobacteriosis 	| Campylobacter<br>jejuni 	| Usually 2-10. Most<br>toxin heat labile 	| Milk, or poultry<br>product, water 	|
+| 3 	| Listeriosis 	| L.monocytogenus 	| Varying periods.<br>Related to meningitis <br>and abortion newborns and the<br>elderly. 	| Meat products,<br>especially pork and<br>milk. 	|
+| 4 	| Diarrhea and colitis 	| Escherichia coli,<br>includes serotype<br>0157 : H7 	| 24 - 72 hrs Entero toxigenic <br>Positive and negative Strains: <br>hemorrhagic colitis 	| Cooked ground beef,<br>raw milk 	|
+| 5 	| Shigellosis 	| Shigella sonnei, <br>S.flexneri 	| 24–72 hrs 	| Egg products,<br>puddings 	|
+| 6 	| Acute <br>gastroenteritis 	| Vibrio<br>parahaemolyticus 	| 16–48 hr 	| Sea food, shellfish 	|
 
-1\. Salmonellosis _Salmonella_ _typhimurium_
-
-_S_. _enteritidis_
-
-8–
-
-En cy
-
-2\. Campylobacteriosis _Campylobacter_ _jejuni_
-
-U to
-
-3\. Listeriosis _L_. _monocytogenes_ V R an ne el
-
-4\. Diarrhea and colitis _Escherichia coli_, includes serotype 0157:H7
-
-24 to an he
-
-5\. Shigellosis _Shigella sonnei_, S. _flexneri_
-
-24
-
-6\. Acute gastroenteritis
-
-_Vibrio_ _parahaemolyticus_
-
-16  
 
 Intoxication produces symptoms shortly after the food is consumed because growth of the disease – causing microorganism is not required. Toxins produced in the food can be associated with microbial cells or can be released from the cells.
 
