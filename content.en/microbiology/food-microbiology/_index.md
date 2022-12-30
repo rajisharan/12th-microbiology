@@ -434,11 +434,8 @@ Recording of Results – During incubation, observe colour changes as follows:
 
 **Table 5.5:** Microbiological Quality of Milk
 
-**S.No Grade Methylene blue reductas** 1\. Very good 5 and above 2. Good 3–4
 
-3\. Fair 1–2
 
-4\. Very poor 0.5  
 
 a. If any sample is decolourized on incubation for 30 minutes, record the reduction time as MBRT 30 minutes.
 
@@ -447,26 +444,6 @@ b. Record such readings as, reduction times in whole hours. For example, if the 
 c. Immediately after each, reading, remove and record all the decolourized samples and then gently invert the remaining tubes if the decolourization has not yet begun (Table 5.5).
 
 ![ Methylene Blue dye Reduction Test](5.4.png "")
-
-
-**e test in hrs Total plate count/ml** Not exceeding 0.2 million Between 0.2 to1.0 million
-
-Between 1–5 million
-
-over 5 million
-
-
-
-
-
-
-| S.N o |Gr a d e |Me th y l ene b lu e r e du c tas e t es t in hrs |Tota l p l ate c oun t/m l |
-|------|------|------|------|
-| 1. |Ver y g o o d |5  a nd  ab ove |Not ex ce e din g 0.2 mi l lio n |
-| 2 . |G ood |3–4 |B et we en 0.2 t o1.0 mi l lio n |
-| 3. |Fai r |1–2 |B et we en 1–5 mi l lio n |
-| 4. |Ver y p o or |0.5 |over 5 mi l lio n |
-  
 
 ## Cheese
 
