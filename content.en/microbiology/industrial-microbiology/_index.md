@@ -3,13 +3,6 @@ title: 'Industrial Microbiology'
 weight: 6
 ---
 
-  
-
-**Industri**
-
-**Chapter**
-
-**6**
 
 After studying this chapter the students will be able to,
 
@@ -58,10 +51,6 @@ Industrial microbiology is a branch of science that deals with the study and use
 production of many products which has industrial and economic applications. Man has been using many microorganisms for the production of foods, (bread, cheese, yogurt, pickles)–beverages (beer, wine) for many centuries. The birth of industrial microbiology largely began with the studies of Pasteur on fermentation. The term Fermentation originates from a Latin verb “Fervere” which literally means to boil. In alcohol production, CO2 (gas bubbles) Figure 6.1 are formed during boiling of liquid.
 
 
-
-
-  
-
 ![ Bubble formation in grape juice fermentation](6.1.png "")
 
 
@@ -103,29 +92,6 @@ Amino Acids Ascorbic acid
 duced in Industrial fermentation
 
 
-
-
-
-
-| Nut r ien t |
-|------|------|------|------|------|
-
-| ar y S e c onoli tes met ab |
-| Pr i m d ar y met ab oli tes |
-
-
-| Pr i mar ymet ab oli tes |
-|------|------|------|------|------|------|
-
-| E smetAminNucV |
-| Met ab olicpro du c t sEt hanolAcet oneL at ic acid . |s e nti alab oli teso acid sle ot idesit amin s |
-
-
-
-|------|------|------|------|------|
-| AA |
-| Bio o rSter omin o As co rb |ga nicid scid sic acid |
-| Ant ibio t icsA l ka lo id sGibb er lin sPig men ts |
 
   
 
