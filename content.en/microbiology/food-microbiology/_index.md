@@ -432,9 +432,8 @@ Methylene blue dye reduction test commonly known as MBRT test is used as a quick
 
 Recording of Results – During incubation, observe colour changes as follows:
 
-**Table 5.5:** Microbiological Quality of Milk
 
-
+![ Methylene Blue dye Reduction Test](5.4.png "")
 
 
 a. If any sample is decolourized on incubation for 30 minutes, record the reduction time as MBRT 30 minutes.
@@ -443,7 +442,14 @@ b. Record such readings as, reduction times in whole hours. For example, if the 
 
 c. Immediately after each, reading, remove and record all the decolourized samples and then gently invert the remaining tubes if the decolourization has not yet begun (Table 5.5).
 
-![ Methylene Blue dye Reduction Test](5.4.png "")
+
+**Table 5.5:** Microbiological Quality of Milk
+| **S.No** 	| **Grade** 	| **Methylene blue reductase test in hrs** 	| **Total plate count/ml** 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 1 	| Very good 	| 5 and above 	| Not exceeding 0.2 million 	|
+| 2 	| Good 	| 3–4 	| Between 0.2 to1.0 million 	|
+| 3 	| Fair 	| 1–2 	| Between 1–5 million 	|
+| 4 	| Very poor 	| 0.5 	| over 5 million 	|
 
 ## Cheese
 
@@ -479,19 +485,6 @@ id ophilur milk, Yakult
 
 s, Acidophilus-yeast milk
 
-**ts**
-
-
-
-
-
-
-| C ate g or y |Ty pi c a l E xa mp l es |
-|------|------|
-| i. L ac t ic F er men t at io nsMes ophi licTh er mophi licTh era p eu t ic |Butter mi l k c u ltur e d b utter mi l k L angof i l,Te tm jo lk y me rYogur t, L ab an, Z ab adi B u lga r i an b utter mi l kBif ig hur t, A cid o phi lur mi l k, Ya ku lt |
-| i i. Ye ast-l ac t ic f er men t at io ns |Kef ir, K oumi ss, A cido phi lus-y e ast mi l k |
-| iii . Mold – l ac t icfer men t at io ns |Vill i |
-  
 
 for giving swiss cheese its eye, or holes and flavour (Figure 5.6).
 
