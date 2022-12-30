@@ -303,6 +303,8 @@ In this method, food is processed and sealed in airtight cans. Food items like v
 | 6 	| Radiation 	| Use of ionizing (gamma rays) and non ionizing (UV) radiation 	|
 | 7 	| Microbial product –<br>based inhibition 	| The addition of substances such as bacteriocins to foods to<br>control food – borne pathogens 	|
 
+
+
 **“Typhoid Fever and Canned Meat”** Minor errors in canning have led to major typhoid outbreaks. In 1964 canned beef produced in South America was cooled, after sterilization with non chlorinated water. The vacuum created when the cans were cooled drew _Salmonella typhi_ into some of the cans, which were not completely sealed. This contaminated product was later sliced in an Aberdeen, Scotland, Food store and the meat slicer became a continuing contamination source the result was a major epidemic that involved 400 people. The _Salmonella typhi_ was a South American strain and eventually the contamination was traced to the contaminated water used to cool the cans. This emphasizes the importance of careful food processing
 
 and handling to control the spread of disease during food production and preparation.
@@ -357,20 +359,6 @@ chemical reactions Example: Prevention of oxidation by means of antioxidants.
 
 
 
-
-
-
-| S.N o |App ro a c h |E xa mpl es o f p ro c ess |
-|------|------|------|
-| 1. |R em ova l o fmicr o orga ni sm s |Avoid ance o f micr obi a l co nt amin at io n, p hysic a l f i lt ra t io n,cen t r if uga t io n. |
-| 2. |L ow t em p era tur e |R ef r ig era t io n, F re e zin g |
-| 3 . |Hig h t em p era tur e |Par t i a l o r co mplet e h e at in ac t iva t io n o f micr o orga ni sm s(p asteur iza t io n a nd c annin g |
-| 4 . |R e duce d wa terav ai l abi l it y |Water r em ova l, a s w it h Lyophi liza t io n o r f re e ze dr y in g u s e o fspra y dr yer s o r h e at in g dr um s de cr e asin g wa ter a va i l abi li t y b yaddi t io n o f s olutes s uc h a s s a lt o r s uga r. |
-| 5. |C hemic a l – b as e dpres er va t io n |Addi t io n o f s p e cif ic in hi bitor y co mp oun ds (E xa mple: o rga nicacid s, ni t ra tes, s u lf ur dio xide) |
-| 6. |R adi at io n |Us e o f io nizin g (ga mm a ra ys) a nd n on io nizin g (UV ) radi at io n |
-| 7. |Micr obi a l p ro duc t –b as e d in hi bit io n |Th e addi t io n o f s ubs t ances s uc h a s b ac ter io cin s t o f o o ds t oco nt rol f o o d – b or ne p at hog en s |
-  
-
 3\. Prevention of damage because of insects, animals, mechanical causes, etc.
 
 ## Diary Microbiology
@@ -398,49 +386,7 @@ diet. It is an extremely complex mixture and usually contains (Table 5.3).
 
 ¾ Three sources contribute to the microorganism found in milk the udder interior, the teat exterior and its immediate surroundings, and the milking and milk handling equipment.
 
-¾ Bacteria that get on to the outside of the teat may be able to invade the opening and hence the udder interior. The organisms most commonly isolated are _Micrococcus, Streptococci_ and the diptheroid _Corynebacterium_ _bovis_. Aseptically taken milk from a healthy cow normally contains low number of organisms, typically fewer than 102–103 cfu ml-1
-
-**Yoghurt Evaporated milkRaw milk**
-
-**Dried milk Cream Sweetened condensed**
-
-**milk**
-
-**Milk powder**
-
-**Pasteurized milk**
-
-**Cheese**
-
-T, p
-
-H , a
-
-w
-
-T, pH
-
-T, a
-
-T, a T
-
-T
-
-T
-
-pH–Hydrogen ion concentration **T–**Elevated temperature H–Reduced water pressure aw–water activity
-
-**Flowchart 5.2:** Various products obtained from raw milk
-
-
-
-
-
-
-| , pH, aT |T |
-|------|------|
-| R aw miT, a |l kT |
-  
+Bacteria that get on to the outside of the teat may be able to invade the opening and hence the udder interior. The organisms most commonly isolated are _Micrococcus, Streptococci_ and the diptheroid _Corynebacterium_ _bovis_. Aseptically taken milk from a healthy cow normally contains low number of organisms, typically fewer than 102–103 cfu ml-1
 
 ¾ The udder exterior and its immediate environment can be contaminated with organisms from the cow’s general environment. Heavily contaminated teats have been reported to contribute up to 105 cfu ml-1 in the milk. Contamination from bedding and manure can be source of human pathogens such as _E.Coli, Campylobacter, Salmonella, Bacillus spp._ and _Clostridia spp._
 
@@ -448,31 +394,14 @@ pH–Hydrogen ion concentration **T–**Elevated temperature H–Reduced water p
 
 **Table 5.3:** Complex mixture
 
-**S.No Composition Approximate**
-
-**percentage** 1\. Liquid (Water) 87% 2. Solids 13% 3. Fat 4% 4. Protein 3.3% 5. Lactose
-
-(Milk Sugar) 5%
-
-6\. Ash content (Vitamins and minerals)
-
-0.7%
-
-**Table 5.4:** Microbiological Standard and Gradin
-
-**S.No Product Temperature Bacte**
-
-1\. Grade A raw milk for pasteurization
-
-Cooled to 50ºF and maintained there at until processed
-
-Indivi milk s 100,00 comb produ
-
-2\. Grade A pasteurized milk products
-
-Cooled to 45ºF or less
-
-Milk a 20,000 not ex  
+| **  S.No  ** 	| **     Composition  ** 	| **   Approximate percentage   ** 	|
+|:---:	|:---:	|:---:	|
+| 1 	| Liquid (Water) 	| 87% 	|
+| 2 	| Solids 	| 13% 	|
+| 3 	| Fat 	| 4% 	|
+| 4 	| Protein 	| 3.3% 	|
+| 5 	| Lactose<br>(Milk Sugar) 	| 5% 	|
+| 6 	| Ash content<br>(Vitamins and<br>minerals) 	| 0.7% 	|
 
 ### Microbiological Standard and Grading of Milk
 
@@ -485,40 +414,16 @@ In India, raw milk is graded by Bureau of Indian standards (BIS) 1977. The India
 
 **Grading of milk** The quality of milk is judged by certain standards and it is known as grading milk. Grading of milk is based upon regulations pertaining to production, processing and distribution. This includes sanitation, pasteurization, holding conditions and microbiological standards. The U.S public health secrine publication “Milk ordinance and code” shows the following chemical, bacteriological and temperature standards for grade A milk and milk products.
 
-g of Milk
-
-**rial count/ml Chemical and others**
-
-dual producer hould not exceed 0/ml prior to
-
-ining with other ce of milk
-
-Antibiotics should be less than 0.05 unit/ml
-
-nd Milk products /ml coliforms limit ceeding 10/ml
-
-Phosphates less than 1mg/ml
 
 
+**Table 5.4: Microbiological Standard and Grading of Milk**
+
+| **S.No** 	| **Product** 	| **Temperature** 	| **Bacterial count/ml** 	| **Chemical and others** 	|
+|---	|---	|---	|---	|---	|
+| 1 	| Grade A<br>raw milk for<br>pasteurization 	| Cooled to 50ºF<br>and maintained<br>there at until<br>processed 	| Individual producer<br>milk should not exceed<br>100,000/ml prior to<br>combining with other<br>produce of milk 	| Antibiotics should be<br>less than 0.05 unit/ml 	|
+| 2 	| Grade A<br>pasteurized<br>milk products 	| Cooled to 45ºF<br>or less 	| Milk and Milk products<br><br>20,000/ml coliforms limit<br>not exceeding 10/ml 	| Phosphates less than<br>1mg/ml 	|
 
 
-
-
-| S.N o |C om p o siti on |Approxima tep erc entage |
-|------|------|------|
-| 1. |L iq uid (W ater) |87% |
-| 2. |S olid s |13% |
-| 3. |Fat |4% |
-| 4. |Protein |3.3% |
-| 5. |L ac tos e(M i l k S uga r) |5% |
-| 6. |Ash co nten t(Vit amin s a ndmin era ls) |0.7% |
-
-
-| S.N o |Pro duct |Temp er atu re |Bac teri a l c oun t/m l |C he mi c a l a nd o the rs |
-|------|------|------|------|------|
-| 1. |Grade Ara w mi l k f orp asteur iza t io n |C o ole d t o 50ºFan d  m ai nt ai ne dt her e a t un t i lpro ces s e d |Indi v id u a l p ro ducermi l k s hou ld n ot ex ce e d100,000/m l p r io r t oco mbinin g w it h o t herpro duce o f mi l k |Ant ibio t ics s hou ld b eles s t han 0.05 uni t/m l |
-| 2. |Grade Ap asteur ize dmi l k p ro duc ts |C o ole d t o 45ºFor les s |Mi l k a nd M i l k p ro duc ts20,000/m l co lif or ms limi tnot ex ce e din g 10/m l |Phos phates les s t han1m g/m l |
-  
 
 ### Methylene Blue dye Reduction Test (MBRT)
 
