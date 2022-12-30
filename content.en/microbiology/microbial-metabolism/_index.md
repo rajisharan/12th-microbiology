@@ -249,14 +249,13 @@ C<sub>6</sub>H<sub>12</sub>6<sub>6</sub> + 6CO<sub>2</sub> + 38ADP + 38P<sub>i</
 
 ![ Overview of](4.7.png "")
 
-| Name of the<br>Nucleotide       	| Biosynthesis   	|
-|---------------------------------	|----------------	|
-| Uridine triphosphate<br>(UTP)   	| Polysaccharide 	|
-| Cytidine triphosphate<br>(CTP)  	| Lipid          	|
-| Guanidine triphosphate<br>(GTP) 	| Protein        	|
+| Glycolysis<br><br>1. Oxidation of glucose to Pyruvic acid.<br>2. Production of 2 NADH 	| Preparatory step<br><br>2 ATP (substrate level phosphorylation)<br>6 ATP (Oxidative phosphorylation in ETC) 	|
+|---	|---	|
+| Preparatory step<br><br>1. Formation of acetyl CoA produces<br>     2NADH 	| 6 ATP (Oxidative phosphorylation in ETC) 	|
+| Krebs cycle<br><br>1. Oxidation of succinyl CoA to<br>succinic acid<br>2. Production of 6 NADH<br>3. Production of 2 FADH 	| 2 ATP (Substrate level phosphorylation) <br>18 ATP (Oxidative phosphorylation in ETC)        <br>4 ATP (Oxidative phosphorylation in ETC)<br><br><br>Total 38 ATP 	|
+
 
 ## Lipid Catabolism
-
 
 Microorganisms frequently use lipids such as triglyceride or triacylglycerol (esters of glycerol and fatty acids) as common reserve energy sources. These can be hydrolyzed to glycerol and fatty acid by microbial lipases. The glycerol is then phosphorylated and oxidized to Dihydroxyacetone phosphate and then catabolized in the Glycolysis pathway. Fatty acids from triacylglycerols and other lipids are often oxidized in the β-oxidation pathway. In this pathway fatty acids are degraded to acetyl CoA (2C segment), then it enters into the TCA cycle.
 
@@ -349,11 +348,19 @@ dehydrogenase. The study of enzyme is called Enzymology.
 
 Enzymes are proteins or large biomolecules that can catalyze certain biochemical reactions for metabolic process within the cell. The substances that can speed up a chemical reaction without being permanently altered itself are called catalysts. Enzymes accelerate the rate of chemical reactions. The molecule upon which enzyme may act are called substrate and the enzyme convert the substrate into different molecules known as products. The enzyme serves as biological catalyst (Table 4.3).
 
+| **Class** 	| **Type of Chemical Reaction** 	| **Reactions** 	| **Examples** 	|
+|---	|---	|---	|---	|
+| Oxido-<br>reductase 	| Oxidation-reduction in which <br>oxygen and hydrogen are<br>gained or lost 	| Xr_ed_ + Yox ---> Xox + Y_re_d 	| Cytochrome oxidase,<br>lactate dehydrogenase 	|
+| Transferase 	| Transfer of functional groups,     <br>such as an amino group, acetyl<br>group, or phosphate group 	| X − P + Y ----> X +Y-P 	| Acetate kinase,<br>alanine deaminase,<br>transaminase,<br>phosphotransferase 	|
+| Hydrolase 	| Hydrolysis (addition of water) 	| X − Y + H2O<br><br>X − H + Y − OH 	| Lipase, sucrose 	|
+| Lyase 	| Removal of groups of atoms<br>without hydrolysis 	| X - Y ---> X - H + Y - OH 	| Oxalate, decarboxylase, isocitrate, lyase 	|
+| Isomerase 	| Rearrangement of atoms<br>within a molecule 	| X - Y --> X - Z - Y 	| Glucose-phosphate<br>isomerase, alanine<br>racemase 	|
+| Ligase 	| Joining of two molecules <br>energy usually derived from<br>breakdown of ATP)<br> 	| X + Y + ATP ---> X - Y + ADP + pi 	| Acetyl-CoA<br>synthetase, DNA<br>ligase 	|
+
 ```
 Do You Know
 Tyrosinases are syn- thesized by _Agaricus bisporus,_ which is involved in melano- genesis (pigmentation of skin and hair).
 ```
-
 
 ### Characteristics of Enzymes
 
@@ -406,6 +413,8 @@ vitamin B. Some cofactors are metal ions including iron (Fe), copper (Cu), magne
 The complete enzyme consisting of the apoenzyme and its cofactor is called the holoenzyme.
 
 **Table 4.4: Industrial application of microbial enzymes**
+
+
 
 ### Microbial Enzymes
 

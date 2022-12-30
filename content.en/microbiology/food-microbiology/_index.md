@@ -3,44 +3,28 @@ title: 'Food Microbiology'
 weight: 5
 ---
 
-  
-
-**Chapter Outline**
-
-**5.1** Food Microbiology **5.2** Food Spoilage **5.3** Food Borne Disease **5.4** Food Preservation Methods **5.5** Dairy Microbiology **5.6** Cheese **5.7** Yogurt **5.8** Curd
-
-After studying this chapter the students will be able to,
-
-_- Know the sources of microorganisms in food_
-
-_- Understand the factors that influence growth of microorganisms in food_
-
-_- Learn about the food spoilag. 
-- Appreciate the food preservation_
-
-_method. 
-- Learn and compare food poisoning_
-
-_and food intoxicatio. 
-- Classify the food borne disease. 
-- Understand the microbial standards_
-
-_and grading of mil. 
-- Know the fermented milk products_
-
-_like cheese, yoghurt and curd_
 
 **Learning Objectives**
 
-**Food M**
+After studying this chapter the students will be able to,
 
-**Chapter**
+- Know the sources of microorganisms in food
 
-**5**  
+- Understand the factors that influence growth of microorganisms in food
+
+- Learn about the food spoilag. 
+
+- Appreciate the food preservation method. 
+
+- Learn and compare food poisoning and food intoxicatio. 
+
+- Classify the food borne disease. 
+
+- Understand the microbial standards and grading of mil. 
+
+- Know the fermented milk products like cheese, yoghurt and curd
 
 ## Food Microbiology
-
-
 The field of food microbiology is very broad, encompassing the study of microorganisms which have both beneficial and deleterious effects on
 
 the quality and safety of raw and processed foods. The primary tool of microbiologists is the ability to identify and quantitate food- borne microorganisms. Microorganisms in food include bacteria, molds, yeasts, algae, viruses, parasitic worms and protozoans.
