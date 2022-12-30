@@ -451,6 +451,15 @@ c. Immediately after each, reading, remove and record all the decolourized sampl
 | 3 	| Fair 	| 1–2 	| Between 1–5 million 	|
 | 4 	| Very poor 	| 0.5 	| over 5 million 	|
 
+
+
+| **Category** 	| **Typical Examples** 	|
+|:---:	|:---:	|
+| i. Lactic Fermentations<br>   Mesophilic<br>   Thermophilic<br>   Therapeutic<br> 	| Buttermilk cultured buttermilk Langofil,<br>Tetmjolkymer<br>Yogurt, Laban, Zabadi Bulgarian buttermilk<br><br>Bifighurt, Acid ophilur milk, Yakult<br> 	|
+| ii. Yeast-lactic fermentations 	| Kefir, Koumiss, Acidophilus-yeast milk 	|
+| iii.Mold – lactic<br><br>fermentations 	| Villi 	|
+
+
 ## Cheese
 
 
