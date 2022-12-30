@@ -231,10 +231,9 @@ Intoxication produces symptoms shortly after the food is consumed because growth
 Food poisoning is caused by various factors as follows. 1. Microorganism of plant food products. 2. Microorganism of Animal food
 
 products. 3. Microorganism of processed food. 4. Standard chemicals added to the food. 5. Excess use of preservatives in food. 6. Presence of higher population of
-
 Microorganism in food.
 
-es
+
 
 **ncubation period nd characteristics**
 
@@ -267,20 +266,6 @@ Cooked ground beef, raw milk
 
 
 
-
-
-| S.N o |Dis e as e |Org anis m |Inc ub ati on p eri o dand cha r ac teris ti cs |Majo r F o o ds I nvolv e d |
-|------|------|------|------|------|
-| 1. |Sa lm onel losi s |S almo nellat y phimur iumS .  enter itidi s |8–48 hrEn ter otoxin a ndc yt otoxin s |Me at, p ou lt r y, Fi sh,eg gs, d air y p ro duc t. |
-| 2. |C ampy lo b ac ter iosi s |C ampylobac te rjej uni |Usu a l ly 2–10. M os ttoxin h e at l abi le |Milk ,  o r,  p oul tr ypro duc t, wa ter. |
-| 3. |L ister iosi s |L .  mo no c y to g e ne s |Var y in g p er io ds.R el ate d t o m enin g it isand  a b or t i onne w b or ns  a nd  t heelder ly. |Me at p ro duc ts,es p e ci a l ly p ork a ndmi l k. |
-| 4. |Di ar rhe a a nd co li t is |E s ch e r ichia  c oli ,in cludes s er ot yp e0157:H7 |24–72 hr s En ter otoxig enic P osi t iveand n ega t ive s t ra in s :hem or rhag ic co li t is |C o oke d g roun d b e ef ,ra w mi l k |
-| 5 . |Shig el losi s |Shige lla s onnei , S.f lexn er i |24–72 hr s |Eg g p ro duc ts,puddin gs |
-| 6 . |Ac utega st ro en ter it is |Vibr ioparahae mo ly tic u s |16–48 hr |S e a  f o o d,  shel l f ish |
-  
-
-7\. Toxin produced by various types of Microorganism.
-
 ## Food Preservation Methods
 
 
@@ -307,10 +292,16 @@ In this method, food is processed and sealed in airtight cans. Food items like v
 
 - Some methods of food preservation may lead to loss of nutrients.
 
-
-
-
-  
+ 
+| **S.No** 	| **Approach** 	| **Examples of process** 	|
+|:---:	|:---:	|:---:	|
+| 1 	| Removal of<br>microorganisms   	| Avoidance of microbial contamination, physical filtration,<br>centrifugation. 	|
+| 2 	| Low temperature 	| Refrigeration, Freezing 	|
+| 3 	| High temperature 	| Partial or complete heat inactivation of microorganisms<br>(pasteurization and canning 	|
+| 4 	| Reduced water<br>availability 	| Water removal, as with Lyophilization or freeze drying use of<br>spray dryers or heating drums decreasing water availability by<br>addition of solutes such as salt or sugar. 	|
+| 5 	| Chemical – based<br>preservation 	| Addition of specific inhibitory compounds (Example: organic<br>acids, nitrates, sulfur dioxide) 	|
+| 6 	| Radiation 	| Use of ionizing (gamma rays) and non ionizing (UV) radiation 	|
+| 7 	| Microbial product –<br>based inhibition 	| The addition of substances such as bacteriocins to foods to<br>control food – borne pathogens 	|
 
 **“Typhoid Fever and Canned Meat”** Minor errors in canning have led to major typhoid outbreaks. In 1964 canned beef produced in South America was cooled, after sterilization with non chlorinated water. The vacuum created when the cans were cooled drew _Salmonella typhi_ into some of the cans, which were not completely sealed. This contaminated product was later sliced in an Aberdeen, Scotland, Food store and the meat slicer became a continuing contamination source the result was a major epidemic that involved 400 people. The _Salmonella typhi_ was a South American strain and eventually the contamination was traced to the contaminated water used to cool the cans. This emphasizes the importance of careful food processing
 
