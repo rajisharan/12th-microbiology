@@ -110,7 +110,16 @@ microbiologically transformed, and
 ![ Production of primary and secondary metabolites in the growth cycle of microorganism](6.2.png "")
 
 
-**Table 6.1:** Industrially important microorganism **Product Microorganisms** Vitamin B12 _Streptomyces_ Lactic acid _Lactobacillus delbrueckii_ Citric acid _Aspergillus niger_ Acetic acid _Acetobacter_ Ethanol _Saccharomyces_ Penicillin _Pencillium chrysogenum_  
+| **Product** 	| **Microorganisms** 	| **Uses** 	|
+|---	|---	|---	|
+| Vitamin B12 	| Streptomyces 	| Vitamin supplements 	|
+| Lactic acid 	| Lactobacillus delbrueckii 	| Chemical reagents 	|
+| Citric acid 	| Aspergillus niger 	| Food preservative 	|
+| Acetic acid 	| Acetobacter 	| Vinegar, solvent 	|
+| Ethanol 	| Saccharomyces 	| Chemical reagents drinks 	|
+| Penicillin 	| Pencillium chrysogenum 	| Antibiotic 	|
+
+
 
 - recombinant products through the DNA recombinant technology. (Table 6.1 shows some industrially important microorganisms)
 
@@ -351,28 +360,28 @@ Conventional bioreactors are cylindrical vessels with dome top and bottom (Figur
 
 It is surrounded by a jacket and sparger at the bottom through which air is introduced. The agitator (for mixing of cells and medium) shaft is connected to a motor at the bottom. It has ports for pH, temperature, dissolved Oxygen sensors for regulation. Antifoam agents like animal vegetable oil, lard oil, corn oil and soya bean oil are used to control the foam. Modern fermentors are usually integrated with computers for efficient process monitoring and data acquisition. Parts of the fermenter and their functions are given in Table 6.2.
 
-of a fermenter
 
+**Table 6.2: Components of fermenter and their uses:**
 
-
+| S. no 	| Parts of fermenter 	| Functions 	|
+|---	|---	|---	|
+| 1 	| Impeller (agitator) 	| To stir the media continuously and hence prevent cells from<br>settling down and distribute oxygen throughout the medium.<br>Impeller speed decreases as the size of the fermenter increases 	|
+| 2 	| Sparger (aerator) 	| Introduce sterile oxygen to the media in case of aerobic<br>fermentation process 	|
+| 3 	| Baffles (vortex breaker) 	| Disrupt vortex and provide better mixing 	|
+| 4 	| Inlet Air filter 	| Filter air before it enter the fermenter 	|
+| 5 	| Exhaust Air filter 	| Trap and prevent contaminants from escaping 	|
+| 6 	| Rota meter 	| Measure flow rate of Air or liquid 	|
+| 7 	| Pressure gauge 	| Measure pressure inside the fermenter 	|
+| 8 	| Temperature probe 	| Measure and monitor change in temperature of the medium<br>during the process 	|
+| 9 	| Cooling jacket 	| To maintain the temperature of the medium throughout the<br>process 	|
+| 10 	| pH probe 	| Measure and monitor pH of the medium 	|
+| 11 	| Dissolved oxygen probe 	| Measure dissolve oxygen in the fermenter 	|
+| 12 	| Level probe 	| Measure the level of medium 	|
+| 13 	| Foam probe 	| Detect the presence of the foam 	|
+| 14 	| Sampling point 	| To obtain samples during the process 	|
+| 15 	| Valves 	| Regulates and controls the flow of liquids and gases 	|
 
   
-
-**Table 6.2:** Components of fermenter and their u **S. no Parts of fermenter** 1 Impeller (agitator) To stir the med
-
-settling down an Impeller speed d
-
-2 Sparger (aerator) Introduce steri fermentation pr
-
-3 Baffles (vortex breaker) Disrupt vortex 4 Inlet Air filter Filter air before 5 Exhaust Air filter Trap and preven 6 Rota meter Measure flow ra 7 Pressure gauge Measure pressu 8 Temperature probe Measure and m
-
-during the proc 9 Cooling jacket To maintain the
-
-process 10 pH probe Measure and m 11 Dissolved oxygen probe Measure dissolv 12 Level probe Measure the lev 13 Foam probe Detect the prese 14 Sampling point To obtain samp 15 Valves Regulates and c
-
-There are different types of fermentor used in industrially micro biology which includes.
-
-1\. Stirred tank bioreactor 2. Tower bioreactors 3. Air lift bioreactors 4. Packed–bed bioreactors 5. Fluidized bed bioreactors 6. Photo bioreactors
 
 ### Media Used in the Industrial Productions
 
@@ -403,55 +412,9 @@ Medium used for large scale production should have the following characteristics
 
 3\. It should minimize the formation of undesired products.
 
+ 
 
-
-
-
-
-| S. no |Par ts o f f erme nter |Func ti ons |
-|------|------|------|
-| 1 |Imp el ler (a g it ator) |To s t ir t he m e di a co nt in uo usly a nd h en ce p re ven t ce l ls f roms et t lin g dow n and dist r ibute oxyg en t hr oug hout the me di um.Imp el ler sp e e d decr e as es as the size of the fer men ter incr e as es |
-| 2 |Sp arger (aera tor) |Int ro duce s ter i le  o xyg en t o t he m e di a in c as e o f aer obicfer men t at io n p ro ces s |
-| 3 |B af f les (v or tex b re a ker) |Di sr upt v or tex a nd p rov ide b et ter mixin g |
-| 4 |In let A ir f i lter |Fi lter a ir b ef ore  i t en ter t he f er men ter |
-| 5 |E xh aust A ir f i lter |Tra p a nd p re ven t co nt amin ants f rom es c apin g |
-| 6 |R ot a m et er |Me asur e f lo w ra te o f A ir o r liq uid |
-| 7 |Pres sur e ga ug e |Me asur e p res sur e in side t he f er men ter |
-| 8 |Tem p era tur e p rob e |Me asur e a nd m oni tor c hange in t em p era tur e o f t he m e di umdur in g t he p ro ces s |
-| 9 |C o olin g j ac ket |To m ain t ain t he t em p era tur e o f t he m e di um t hr oug hout t hepro ces s |
-| 10 |pH p rob e |Me asur e a nd m oni tor pH o f t he m e di um |
-| 11 |Di ss olve d o xyg en p rob e |Me asur e di ss olve o xyg en in t he f er men ter |
-| 12 |Le vel  p robe |Me asur e t he le vel o f m e di um |
-| 13 |Fo am  p rob e |D et e c t t he p res en ce o f t he f o am |
-| 14 |Sa mplin g p oin t |To o bt ain s amples d ur in g t he p ro ces s |
-| 15 |Valve s |R egu l ates a nd co nt rols t he f lo w o f liq uid s a nd ga s es |
-  
-
-**Table 6.3:** Some common substrates used in the **Carbon so**
-
-Molasses It is a byproduct o carbohydrates It also trace elements. (Exa
-
-Malt extract It is an aqueous ext starch, dextrin cellulose They can be metab
-
-the industrial prod Whey It is a byproduct of
-
-alcohol, SCP, vitam Methanol ethanol Methanol in the ch
-
-bacteria yeast. Met acetic acid product
-
-Hydro molasses It is a byproduct in Sulphate waste liquor It is a spent sulfite
-
-It is used in the p _cerevisiae_, and in th
-
-**Nitrogen s** Inorganic: Ammonium salts and ammonia
-
-It is a cheap source
-
-Urea (Organic) It is a good and che Corn steep liquor (Organic)
-
-It is formed during several amino acids
-
-Yeast extract It is rich in amino a Soy meal It is a left out residu
+ is rich in amino a Soy meal It is a left out residu
 
 seeds. It is used in a Peptones The proteins hydro
 
@@ -463,44 +426,6 @@ Waste products from other industrial processes such as molasses, ligno cellulosi
 
 Apart from carbon and nitrogen sources, some other components like minerals, vitamins, growth factors are also used in Industrial fermentations.  
 
-industrial fermentation process: **urce** f sugar industry. It is a cheap source of contains nitrogenous substances, vitamins, mple:) sugar cane, beetroot molasses ract of malted barley olized by microorganism. They used for
-
-uction of alcohol dairy industry used in the production of in B12, lactic acid, gibberllic acid eapest substrate. It is utilized only by few hanol is used for SCP. Ethanol is used for ion glucose production from corn liquor form the paper pulping industry. roduction of ethanol by _Saccharomyces_ e growth of _Torula utilis_ as a feed
-
-**ources** of nitrogen
-
-ap source of organic source starch production from corn. It is rich in
-
-cids, peptides vitamins e on preparing soybean oil from soybean ntibiotic production
-
-lysates are called as peptones. The source s meat, cotton seeds and sunflower seeds
-
-**Minerals** Normally, sufficient quantities of cobalt, copper, iron, manganese, molybdenum, and zinc are present in the water supplies, and as impurities in other media ingredients. For example, corn steep liquor contains a wide range of minerals that will usually satisfy the minor and trace mineral needs.
-
-**Vitamins and growth factors** Many bacteria can synthesize all necessary vitamins from basic elements. For other
-
-
-
-
-
-
-| C arb on s our c e |
-|------|------|
-| Mol ass e s |It  is  a  byproduct  of  sugar  industr y.  It  is  a  cheap  source  of carbohydrates It also contains nitrogenous substances, vitamins, trace elements. (Example:) sugar cane, beetroot  molasses |
-| Ma lt ext rac t |It i s a n aq ue ous ext rac t o f m a lte d b arle y |
-| st arch, dext r in ce l lu los e |Th e y c an b e m et ab olize d b y micr o orga ni sm. Th e y u s e d f ort he in dust r i a l p ro duc t io n o f a lco hol |
-| Whe y |It i s a b yp ro duc t o f d air y in dust r y u s e d in t he p ro duc t io n o fa lco hol, SCP, v it amin B12, l ac t ic acid , g ibb er l lic acid |
-| Met hanol et hanol |Met hanol in t he c he ap es t s ubs t ra te. I t i s u t i lize d o n ly b y f e wb ac ter i a y e ast. M et hanol i s u s e d f or SCP. E t hanol i s u s e d f oracet ic acid p ro duc t io n |
-| Hydr o m ol ass es |It i s a b yp ro duc t in g lucos e p ro duc t io n f rom co r n |
-| Su lphate wa ste liq uo r |It i s a s p en t s u lf ite liq uo r f or m t he p ap er p u lpin g in dust r y.It i s u s e d in t he p ro duc t io n o f et hanol b y  S acc haromyce sce re v i siae , a nd in t he g rowt h o f  Tor ul a  u til i s  a s a f e e d |
-| Nitro ge n s our c es |
-| Inorga nic: A mm oni ums a lts a nd a mm oni a |It i s a c he ap s our ce o f ni t rog en |
-| Ure a (Or ga nic) |It i s a g o o d a nd c he ap s our ce o f o rga nic s our ce |
-| C or n  ste ep  liq uo r(Or ga nic) |It i s f or me d d ur in g s t arch p ro duc t io n f rom co r n. I t i s r ic h ins e vera l a min o acid s |
-| Ye ast ext rac t |It i s r ic h in a min o acid s, p ep t ides v it amin s |
-| S oy  m e a l |It i s a lef t o ut r esid ue o n p rep ar in g s oy b e an o i l f rom s oy b e ans e e ds. I t i s u s e d in a nt ibio t ic p ro duc t io n |
-| Pep tones |Th e p rotein s h ydr olys ates a re c a l le d a s p ep tones. Th e s our ceof p ep tones in cludes m e at, co tton s e e ds a nd s unf lo wer s e e ds |
-  
 
 bacteria, filamentous fungi and yeasts, they must be added as supplements to the fermentation medium. Most natural carbon and nitrogen sources also contain at least some of the required vitamins as minor contaminants. Other necessary growth factors, amino acids, nucleotides, fatty acids and sterols, are added either in pure form or, for economic reasons, as less expensive plant and animal extracts.
 
